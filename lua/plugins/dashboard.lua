@@ -50,6 +50,7 @@ return {
             { icon = " ", desc = "Lazy Extras", action = ":LazyExtras", key = "x" },
             { icon = "󰒲 ", key = "l", desc = "Lazy", action = ":Lazy", enabled = package.loaded.lazy },
             { icon = " ", key = "q", desc = "Quit", action = ":qa" },
+            { icon = "󰦛 ", key = "s", desc = "Restore Session", section = "session" },
           },
         },
       },

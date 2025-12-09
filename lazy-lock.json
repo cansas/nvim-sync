@@ -34,5 +34,5 @@
   "trouble.nvim": { "branch": "main", "commit": "bd67efe408d4816e25e8491cc5ad4088e708a69a" },
   "ts-comments.nvim": { "branch": "main", "commit": "123a9fb12e7229342f807ec9e6de478b1102b041" },
   "which-key.nvim": { "branch": "main", "commit": "3aab2147e74890957785941f0c1ad87d0a44c15a" },
-  "yazi.nvim": { "branch": "main", "commit": "5fbb23f75f38b9d1fedf150f36f321d5314f406e" }
+  "yazi.nvim": { "branch": "main", "commit": "3e434d9aa8a751f9504fae314f3a6baf6953235c" }
 }
